@@ -1,6 +1,6 @@
 # mymetrobank
 
-## Project setup
+## Project setup (install dependencies)
 ```
 npm install
 ```
